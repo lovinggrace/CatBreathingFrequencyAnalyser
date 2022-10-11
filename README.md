@@ -4,6 +4,9 @@ An iOS/watchOS app to check if your cat (or dog) is breathing too fast, which mi
 
 ### See also
 - [Count My Breath](https://countmybreaths.com)
+- [Cardialis](https://apps.apple.com/us/app/cardalis/id569166179)
+- [My Pet's heart2heart](https://apps.apple.com/de/app/my-pets-heart2heart/id1564965551?l=en)
+- [Medivet](https://apps.apple.com/de/app/medivetheart/id899076753?l=en)
 
 ### Sources
 - https://www.alpinevet.net/sites/site-5976/documents/SRR%20in%20cats.pdf
